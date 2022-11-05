@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "dev": "next dev -p 5000",
+    "build": "next build",
+    "start": "next start -p 5000",
+    "lint": "next lint",
+    "info": "next info"
+  },
+  "dependencies": {
+    "@next/font": "^13.0.2",
+    "@redux-devtools/extension": "^3.2.3",
+    "eslint-config-next": "^13.0.1",
+    "next": "^13.0.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.4",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1"
+  }
+}
